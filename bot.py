@@ -7,7 +7,7 @@ from telegram.ext import (
 )
 
 TOKEN = "8992820380:AAEJpDPg-R5SXoOu3ywkCZfQC9RZejFwLIE"
-ADMIN_ID = [7507254732 , 1788031141]
+ADMIN_ID = [7507254732, 1788031141]
 CHANNEL_USERNAME = "@NitroVPN_Official_Org"
 
 # ---------------- DATABASE ----------------
