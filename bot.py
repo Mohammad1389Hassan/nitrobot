@@ -7,7 +7,7 @@ from telegram.ext import (
 )
 
 TOKEN = "8992820380:AAEJpDPg-R5SXoOu3ywkCZfQC9RZejFwLIE"
-ADMIN_ID = [7507254732, 1788031141]
+ADMIN_ID = 7507254732
 CHANNEL_USERNAME = "@NitroVPN_Official_Org"
 
 # ---------------- DATABASE ----------------
@@ -112,7 +112,7 @@ async def start(update: Update,
         "خوش آمدید.\n\n"
         "/text : دریافت کانفیگ\n"
         "/myrefs : تعداد زیرمجموعه\n"
-        "/link : m لینک دعوت"
+        "/link : دریافت لینک دعوت"
     )
 
 # ---------------- REF LINK ----------------
